@@ -14,7 +14,7 @@ int main (){
     
     calculo = num1 * num2;
     
-    printf("A soma desses dois números é: %d" ,calculo);
+    printf("A multiplicação desses dois números é: %d" ,calculo);
     
     return 0;
 }
